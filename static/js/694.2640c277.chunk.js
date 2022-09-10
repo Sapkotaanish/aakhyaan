@@ -597,7 +597,7 @@
                                         ref: r
                                     }), (0, N.jsx)("span", {
                                             className: "text-xl block pt-2",
-                                            children: "ANISH SAPKOTA"
+                                            children: "Upload the payment screenshot here."
                                         })]
                                 }) : (0, N.jsx)("div", {
                                     onClick: n,
