@@ -719,6 +719,26 @@
                                             })]
                                         })
                                     })]
+                                }), (0, N.jsxs)("div", {
+                                    children: [(0, N.jsx)("div", {
+                                        className: "mb-2",
+                                        children: (0, N.jsx)("img", {
+                                            width: "400",
+                                            src: "https://news-api.aakhyaan.org/wp-content/uploads/2022/09/photo_6129458681683750959_y-e1663128084714.jpg"
+                                        })
+                                    }), (0, N.jsx)("div", {
+                                        className: "flex gap-8 flex-col lg:flex-row",
+                                        children: (0, N.jsxs)("div", {
+                                            children: [(0, N.jsxs)("span", {
+                                                className: "gap-2 flex",
+                                                children: [(0, N.jsx)("span", {
+                                                    children: "Name:"
+                                                }), (0, N.jsx)("span", {
+                                                    children: "ANISH SAPKOTA"
+                                                })]
+                                            })]
+                                        })
+                                    })]
                                 })]
                             })]
                         })
